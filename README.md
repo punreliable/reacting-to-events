@@ -1,5 +1,5 @@
 # Reacting to Events
-## v1.0.0
+## v2.0.0
 ---
 
 ### Description
@@ -14,6 +14,7 @@ Project contains two primary pieces:
 
 ### History
 ---
- - 20230213 | v1.0.0 - Project Finished
+ - 20230213 | v2.0.0 - Authentication Added
+ - 20230212 | v1.0.0 - Event CRUD is routed
  - 20230210 | v0.1.0 - Project Init
  
