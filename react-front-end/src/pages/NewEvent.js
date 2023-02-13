@@ -1,12 +1,8 @@
-const NewEventPage = () => {
+import EventForm from '../components/EventForm';
 
-    const title = 'New Event';
-    return(
-<h1>
-Welcome to the {title} Page
-</h1>
-    );
-};
-
+function NewEventPage() {
+  return <EventForm method="post" />;
+}
 
 export default NewEventPage;
+

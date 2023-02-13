@@ -1,10 +1,5 @@
-const HomePage = () => {
-const title = 'Home';
-    return(
-<h1>
-Welcome to the {title} Page
-</h1>
-    );
-};
+function HomePage() {
+  return <h1>HomePage</h1>;
+}
 
 export default HomePage;
